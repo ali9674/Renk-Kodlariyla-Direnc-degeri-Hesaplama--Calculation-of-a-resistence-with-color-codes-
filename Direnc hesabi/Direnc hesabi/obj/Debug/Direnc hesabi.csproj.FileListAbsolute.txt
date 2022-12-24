@@ -1,0 +1,11 @@
+C:\Users\Ali_1\source\repos\Direnc hesabi\Direnc hesabi\bin\Debug\Direnc hesabi.exe.config
+C:\Users\Ali_1\source\repos\Direnc hesabi\Direnc hesabi\bin\Debug\Direnc hesabi.exe
+C:\Users\Ali_1\source\repos\Direnc hesabi\Direnc hesabi\bin\Debug\Direnc hesabi.pdb
+C:\Users\Ali_1\source\repos\Direnc hesabi\Direnc hesabi\obj\Debug\Direnc hesabi.csproj.AssemblyReference.cache
+C:\Users\Ali_1\source\repos\Direnc hesabi\Direnc hesabi\obj\Debug\Direnc hesabi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ali_1\source\repos\Direnc hesabi\Direnc hesabi\obj\Debug\Direnc_hesabi.Form1.resources
+C:\Users\Ali_1\source\repos\Direnc hesabi\Direnc hesabi\obj\Debug\Direnc_hesabi.Properties.Resources.resources
+C:\Users\Ali_1\source\repos\Direnc hesabi\Direnc hesabi\obj\Debug\Direnc hesabi.csproj.GenerateResource.cache
+C:\Users\Ali_1\source\repos\Direnc hesabi\Direnc hesabi\obj\Debug\Direnc hesabi.csproj.CoreCompileInputs.cache
+C:\Users\Ali_1\source\repos\Direnc hesabi\Direnc hesabi\obj\Debug\Direnc hesabi.exe
+C:\Users\Ali_1\source\repos\Direnc hesabi\Direnc hesabi\obj\Debug\Direnc hesabi.pdb
